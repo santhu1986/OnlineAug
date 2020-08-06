@@ -1,0 +1,4 @@
+RoleName###RoleType###Results
+mindqsyshyd@@@@E$$$$New Role with id 1143 Created Sucessfully
+mindqsystemshyd@@@@E$$$$New Role with id 1144 Created Sucessfully
+mindqhyd@@@@E$$$$New Role with id 1145 Created Sucessfully
